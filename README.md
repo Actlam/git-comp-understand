@@ -6,8 +6,8 @@ git完全理解者(強気)になるためのリポジトリ
 | 1      | index.js       | 一番初めのcommit                                             |
 | 2      | second.html    | ２番目のコミット                                             |
 | 3      | Third.py       | devブランチを切ってプルリクを投げて承認するまでを試した<br />(https://qiita.com/takamii228/items/80c0996a0b5fa39337bd) |
-| 4      |                |                                                              |
-|        |                |                                                              |
+| 4      |                | feature/devブランチも同様にmasterの変更に追従させた<br />(該当ブランチでgit merge origin masterの後push) |
+| 5      |                | rebaseでリポジトリの更新を試み(途中)                         |
 |        |                |                                                              |
 |        |                |                                                              |
 |        |                |                                                              |
